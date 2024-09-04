@@ -9,13 +9,13 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
   <a href="https://www.instagram.com/victorres.21/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
   <a href="https://wa.me/qr/TXP27NAOLXTBO1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  />
   <a href="qb.torres.vt@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -25,11 +25,11 @@
 
 ###
 
-<h4 align="center">Eᴜ sᴏᴜ ᴅᴏ ᴘᴀɪs Pᴇʀɴᴀᴍʙᴜᴄᴏ, ᴛᴀᴍʙᴇᴍ ᴄᴏɴʜᴇᴄɪᴅᴏ ᴄᴏᴍᴏ "ᴀ ᴛᴇʀʀᴀ ᴅᴏs ᴀʟᴛᴏs ᴄᴏǫᴜᴇɪʀᴏs". 🌴<br><br>Sᴏᴜ ᴇsᴛᴜᴅᴀɴᴛᴇ ᴅᴇ Aɴᴀʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs ɴᴀ ғᴀᴄᴜʟᴅᴀᴅᴇ Sᴇɴᴀᴄ. 🖥<br><br> Gᴏsᴛᴏ ᴅᴇ ғᴀᴢᴇʀ ᴍᴜsᴄᴜʟᴀᴄ̧ᴀ̃ᴏ, ᴊᴏɢᴀʀ ᴇ ᴛᴏᴍᴀʀ ᴜᴍᴀ 🍺</h4>
+<h4 align="center">Eᴜ sᴏᴜ ᴅᴏ ᴘᴀɪs Pᴇʀɴᴀᴍʙᴜᴄᴏ, ᴛᴀᴍʙᴇᴍ ᴄᴏɴʜᴇᴄɪᴅᴏ ᴄᴏᴍᴏ "ᴀ ᴛᴇʀʀᴀ ᴅᴏs ᴀʟᴛᴏs ᴄᴏǫᴜᴇɪʀᴏs". 🌴<br><br>Sᴏᴜ ᴇsᴛᴜᴅᴀɴᴛᴇ ᴅᴇ Aɴᴀʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs ɴᴀ ғᴀᴄᴜʟᴅᴀᴅᴇ Sᴇɴᴀᴄ. 🖥<br><br> Gᴏsᴛᴏ ᴅᴇ ғᴀᴢᴇʀ ᴍᴜsᴄᴜʟᴀᴄ̧ᴀ̃ᴏ, ᴊᴏɢᴀʀ ᴇ ᴛᴏᴍᴀʀ ᴜᴍᴀ 🍺</h3>
 
 ###
 
-<h3 align="center">🌟 Lɪɴɢᴜᴀɢᴇᴍ ᴇ Fᴇʀʀᴀᴍᴇɴᴛᴀs 🌟</h3>
+<h3 align="center">🌟 Lɪɴɢᴜᴀɢᴇᴍ ᴇ Fᴇʀʀᴀᴍᴇɴᴛᴀs 🌟</h1>
 
 ###
 
